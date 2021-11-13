@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+    --very-light-gray: hsl(0, 0%, 95%);
+}
+
+body {
+    font-size: 15px;
+    display: flex;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: var(--very-light-gray);
+}
+
+.container {
+    box-sizing: border-box;
+    border: 10px;
+    border-color: black;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.card-sedans {
+    width: 250px;
+    height: 350px;
+    background-color: var(--bright-orange);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+}
+.card-sedans h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: var(--very-light-gray);
+    text-transform: uppercase;
+}
+
+.card-sedans p {
+    font-family: 'Lexend Deca', sans-serif;
+    color: var(--transparent-white);
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.8;
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
