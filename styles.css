@@ -27,7 +27,6 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     box-sizing: border-box;
-    max-width: 1020px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -189,7 +188,7 @@ body {
     transition: 0.3s;
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 745px) {
     .container {
         width: 100%;
         display: flex;
