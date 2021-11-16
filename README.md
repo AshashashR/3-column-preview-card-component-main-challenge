@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpg)<img width="928" alt="Capture d’écran 2021-11-16 à 19 28 02" src="https://user-images.githubusercontent.com/78886716/141968703-53c5f148-fb0d-4863-9e7d-d25ab4eab7c2.png">
 
 
 ### Links
