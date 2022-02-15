@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-css-flexbox-3column-preview-card-component-rfqWKX9uz)
-- Live Site URL: [Add live site URL here](https://ashleyrakotoson.github.io/3-column-preview-card-component-main-challenge/)
+- Live Site URL: [Add live site URL here](https://ashashashr.github.io/3-column-preview-card-component-main-challenge/)
 
 ## My process
 
